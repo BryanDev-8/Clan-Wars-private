@@ -1,0 +1,9 @@
+brightpurple #A630D9
+purple #51278C
+bluepurple #3B2C73
+backpurple #352F59
+cuteblue #A3D3D9
+heroyellow #E5C901
+cutered #D1444E
+easygreen #00E576
+colorifyblue #5990BC
